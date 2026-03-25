@@ -5,10 +5,15 @@ parent: Lightning Talks
 nav_order: 2
 ---
 
-## Responsibilities
+## Before Conference
+- [ ] Establish rules for the year
+- [ ] Work with Program team to determine timing/location of Lightning Talks.
+- [ ] Set up sign up form/sheet
+- [ ] Set up shortened URL for sign up sheet and share with Opening Remarks speaker
+- [ ] Post in Slack about first day lightning talk signups (first day is usually light on signups if you
+don't give any notice)
 
-- [ ] Manage lightning talk signups at the conference
-- [ ] Decide on where/how lightning talks will happen
-- [ ] Ensure lightning talk signup process is communicated to attendees prior to and at the conference
-- [ ] Emcee, or recruit an emcee, for lightning talks
-- [ ] Select daily lightning talks
+## During conference
+- [ ] Unlock sheets as needed if not already unlocked.
+- [ ] Check sign up periodically to see if there are any issues with signups, and for folks already speaking at the conference if you decide to deprioritize them.
+- [ ] Host the lightning talks!
