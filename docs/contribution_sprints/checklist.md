@@ -12,6 +12,7 @@ This checklist is written for the 2026 conference which is being held at the end
 ### Pre-conference
 
 - [ ] Brainstorm ways to make sprints friendlier to new contributors
+- [ ] Update documentation dates
 - [ ] Revise sprints questions on tickets
 - [ ] Update the sprints page on the site
 
@@ -72,6 +73,7 @@ This checklist is written for the 2026 conference which is being held at the end
     - [ ] Django REST Framework
     - [ ] Wagtail
     - [ ] Other DRF packages
+    - [ ] Django Commons (and its packages)
 - [ ] Coordinate online sprint participation
     - [ ] Identify sprint project leaders who won't be in person (recruit, but don't actively plan until confirmed)
     - [ ] Set up Slack channels per project; encourage use of huddles for synchronous conversations
