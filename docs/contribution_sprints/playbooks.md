@@ -7,7 +7,7 @@ nav_order: 4
 
 This page contains the information on specific actions for the sprints team.
 
-## Preparing participants
+## Preparing sprint leaders/contributors
 
 The ti.to ticket flow includes questions for each Sprints ticket. They ask if the person if they are leading sprints and interested in receiving support before the conference as well as if they are participating in sprints and interested in receiving support.
 
@@ -17,6 +17,8 @@ The purpose here is to collect identify the people we can reach out to for two r
 2. They are a prospective contributor and want help getting prepared for sprints.
 
 These participants can be found at https://automation.defna.org/sprints/tickets/. You will need staff permissions to review the information. Ask the automation team in the `#automation` channel on Slack for help here.
+
+The following steps need to be completed for each type of participant:
 
 1. Browse to https://automation.defna.org/sprints/tickets/
 2. Download the CSV
