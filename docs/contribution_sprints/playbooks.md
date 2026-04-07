@@ -16,7 +16,7 @@ The purpose here is to collect identify the people we can reach out to for two r
 1. They are a sprint leader and need help preparing their project for sprints.
 2. They are a prospective contributor and want help getting prepared for sprints.
 
-These participants can be found at https://automation.defna.org/sprints/tickets/. You will need staff permissions to review the information. Ask the automation team in the `#automation` channel for help here.
+These participants can be found at https://automation.defna.org/sprints/tickets/. You will need staff permissions to review the information. Ask the automation team in the `#automation` channel on Slack for help here.
 
 1. Browse to https://automation.defna.org/sprints/tickets/
 2. Download the CSV
