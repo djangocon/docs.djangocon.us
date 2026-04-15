@@ -19,8 +19,8 @@ Past platforms used include [Venueless](https://venueless.org/en/) (2024/2025). 
 
 
 ### Key Relationships
-    • A/V Chair: coordinate platform testing and live stream integration
-    • Volunteer Committee: recruit and onboard online moderators
-    • DEFNA Board: approve platform selection and budget
-    • Conference Chair: align on schedule, activities, and day-of logistics
-    • Communications Team: promote online ticket availability and activities
+* A/V Chair: coordinate platform testing and live stream integration
+* Volunteer Committee: recruit and onboard online moderators
+* DEFNA Board: approve platform selection and budget
+* Conference Chair: align on schedule, activities, and day-of logistics
+* Communications Team: promote online ticket availability and activities
