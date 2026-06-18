@@ -51,6 +51,8 @@ nav:
       - "contribution_sprints/about.md"
       - "contribution_sprints/checklist.md"
       - "contribution_sprints/history.md"
+      - "contribution_sprints/playbooks.md"
+      - "contribution_sprints/communication_examples.md"
   - "Health and Safety":
       - "health_and_safety/about.md"
       - "health_and_safety/checklist.md"
