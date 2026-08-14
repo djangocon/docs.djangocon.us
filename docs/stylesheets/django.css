@@ -88,7 +88,11 @@
   background-color: var(--django-green-accent);
 }
 
-/* Accent bar under the active nav item */
-.md-nav__link--active {
+/* Active nav item — dark green in light mode, light accent green in dark mode
+   (the dark green is unreadable on the slate background). */
+[data-md-color-scheme="default"] .md-nav__link--active {
   color: var(--django-green) !important;
+}
+[data-md-color-scheme="slate"] .md-nav__link--active {
+  color: var(--django-green-accent) !important;
 }
