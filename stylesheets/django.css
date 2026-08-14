@@ -1,0 +1,94 @@
+/* DjangoCon US — Django-branded theme overrides for Material for MkDocs.
+   Django brand greens: deep #092E20, primary #0C4B33, accent #44B78B. */
+
+:root {
+  --django-green-dark: #092E20;
+  --django-green: #0C4B33;
+  --django-green-accent: #44B78B;
+  --django-green-soft: #93D7B7;
+}
+
+/* Light scheme */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--django-green);
+  --md-primary-fg-color--light: var(--django-green-accent);
+  --md-primary-fg-color--dark: var(--django-green-dark);
+  --md-accent-fg-color: var(--django-green-accent);
+  --md-typeset-a-color: var(--django-green);
+  /* text/icons that sit on the green header + search box */
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: rgba(255, 255, 255, 0.7);
+}
+
+/* Dark scheme */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: var(--django-green);
+  --md-primary-fg-color--light: var(--django-green-accent);
+  --md-primary-fg-color--dark: var(--django-green-dark);
+  --md-accent-fg-color: var(--django-green-accent);
+  --md-typeset-a-color: var(--django-green-soft);
+  --md-typeset-a-color--hover: var(--django-green-accent);
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: rgba(255, 255, 255, 0.7);
+}
+
+/* Header + nav tabs: deep Django green with a subtle gradient */
+.md-header,
+.md-tabs {
+  background: linear-gradient(90deg, var(--django-green-dark), var(--django-green));
+}
+
+/* White text/icons ON the green header — scoped to the header's own children
+   only, so it never cascades into the (white-background) search field. */
+.md-header__title,
+.md-header__topic,
+.md-header__ellipsis,
+.md-header__button,
+.md-header__source,
+.md-tabs__link {
+  color: #ffffff;
+}
+
+/* Search launcher (the ⌘K button) sits ON the green header, so its box,
+   label, magnifier icon, and key hint all need to read light, not dark. */
+.md-search__button {
+  background-color: rgba(255, 255, 255, 0.15);
+  color: #ffffff;
+}
+.md-search__button:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+}
+.md-search__button * {
+  color: #ffffff;
+}
+.md-search__button::before {
+  /* magnifier glyph (mask-image) */
+  background-color: #ffffff;
+}
+.md-search__button::after {
+  /* the "Ctrl+K" / ⌘K hint chip */
+  background: rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+}
+
+/* Links pick up the accent green on hover */
+.md-typeset a:hover {
+  color: var(--django-green-accent);
+}
+
+/* Section headings in Django green (light mode) */
+[data-md-color-scheme="default"] .md-typeset h1,
+[data-md-color-scheme="default"] .md-typeset h2 {
+  color: var(--django-green-dark);
+}
+
+/* Task-list checkboxes tinted green to match the brand */
+.md-typeset .task-list-indicator::before {
+  background-color: var(--django-green-accent);
+}
+
+/* Accent bar under the active nav item */
+.md-nav__link--active {
+  color: var(--django-green) !important;
+}
