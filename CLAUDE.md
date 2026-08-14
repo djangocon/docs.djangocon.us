@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is the DjangoCon US documentation site, built with MkDocs using the Material theme. It contains organizer documentation, checklists, and templates for running DjangoCon US conferences.
+This is the DjangoCon US documentation site, built with [Zensical](https://zensical.org/) (the successor to MkDocs, from the Material for MkDocs team). It reads the existing `mkdocs.yml` configuration natively. It contains organizer documentation, checklists, and templates for running DjangoCon US conferences.
 
 ## Common Commands
 

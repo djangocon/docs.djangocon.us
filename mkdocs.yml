@@ -133,7 +133,29 @@ nav:
 
 plugins:
   - search
-repo_url: https://github.com/djangocon/djangocon-us-docs
+repo_url: https://github.com/djangocon/docs.djangocon.us
 site_name: DjangoCon US Docs
+extra_css:
+  - stylesheets/django.css
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.top
+    - content.code.copy
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode

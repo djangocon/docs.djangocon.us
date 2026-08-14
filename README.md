@@ -20,10 +20,10 @@ Requires [uv](https://docs.astral.sh/uv/) to be installed.
 uv sync
 
 # Serve docs locally
-uv run mkdocs serve
+uv run zensical serve
 
 # Build static site
-uv run mkdocs build
+uv run zensical build
 ```
 
 The docs will be available at http://127.0.0.1:8000
