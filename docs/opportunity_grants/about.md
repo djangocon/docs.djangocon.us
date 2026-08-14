@@ -32,8 +32,6 @@ Opportunity Grants are intended to help with the costs of attending DjangoCon US
 - Lodging / accommodation
 - In-city transportation during the conference
 
-Meals and tutorial tickets are not covered by Opportunity Grants.
-
 ### Unclaimed or surplus funds
 
 There is no fixed rule for handling unclaimed or leftover grant money (for example, when awarded funds go unclaimed or a recipient's documented expenses exceed their initial award). The Opportunity Grants chair and the treasurer decide how to handle any surplus on a case-by-case basis each year.
