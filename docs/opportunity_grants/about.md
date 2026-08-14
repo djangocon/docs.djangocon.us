@@ -29,7 +29,7 @@ Team size: 1-2
 Opportunity Grants are intended to help with the costs of attending DjangoCon US. Grants are awarded as a dollar amount to help with:
 
 - Travel to and from the conference
-- Lodging / accommodation
+- Lodging / accommodation (only for the night before talks begin through the night after talks with a per-day cap based on the group rate at the main venue)
 - In-city transportation during the conference
 
 ### Unclaimed or surplus funds
