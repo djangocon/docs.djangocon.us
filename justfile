@@ -7,7 +7,7 @@
 
 # Build the static documentation site
 @build:
-    uv run mkdocs build
+    uv run zensical build
 
 # Update uv.lock with latest dependency versions
 @lock:
@@ -19,7 +19,7 @@
 
 # Serve docs locally at http://127.0.0.1:8000
 @serve:
-    uv run mkdocs serve
+    uv run zensical serve
 
 # Start Docker containers
 @up *ARGS:

@@ -15,4 +15,4 @@ RUN --mount=type=cache,target=/root/.cache/uv \
 
 COPY . .
 
-CMD ["uv", "run", "mkdocs", "serve", "--dev-addr", "0.0.0.0:8000"]
+CMD ["uv", "run", "zensical", "serve", "--dev-addr", "0.0.0.0:8000"]

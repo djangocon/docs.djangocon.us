@@ -5,6 +5,5 @@ description = "DjangoCon US organizer documentation"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "mkdocs",
-    "mkdocs-material",
+    "zensical",
 ]
