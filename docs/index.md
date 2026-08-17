@@ -11,7 +11,7 @@ Please read and follow our [Code of Conduct](https://www.djangoproject.com/condu
 
 ## To run locally:
 
-- Fork [this repository](https://github.com/djangocon/djangocon-us-docs)
+- Fork [this repository](https://github.com/djangocon/docs.djangocon.us)
 - Clone it to your machine
 - Install [Just](https://github.com/casey/just)
 - Run `just bootstrap`

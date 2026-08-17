@@ -36,6 +36,7 @@ Previous provider: **[Bagmasters](https://www.bagmasters.com/)**
 - Single color silkscreen, single sided
 - Order at least 3-4 weeks before conference
 
+
 ### Lanyards
 
 Previous provider: Custom Lanyard who has now rebranded as **[Swag Print](https://www.swagprint.com/)**
