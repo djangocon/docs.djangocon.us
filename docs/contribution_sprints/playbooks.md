@@ -56,3 +56,13 @@ The simplest approach is to create the event in Google Calendar and export it:
 3. Copy the `.ics` link, or download the file directly to attach to the email.
 
 Alternatively, use an online generator such as [icalendar.org](https://icalendar.org/ical-generator.html) to build the file manually. Create one `.ics` file per session.
+
+## Hosting Sprints during conference
+
+1. 30 minutes before the scheduled start, prepare the venue. People need signs or ways to indicate their project, there should be an open spreadsheet with project info and links, and optionally dedicated chat channels for each project.
+2. Any scheduled presentations should start at 9am or later, not when the doors open.
+3. Greet people as they join, ask their interest or if they're leading a project. Guide them around the room as necessary.
+4. Prior to project introductions, the chair should make announcements on general schedule
+5. Project announcements from each project leader. Name, what the project is, what they want help on, any special skills a person needs to contribute.
+6. [Optional] Presentation on how to contribute to Django
+7. 10 minutes before the event closes, the chair should announce that people should begin wrapping up.
