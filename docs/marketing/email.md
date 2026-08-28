@@ -21,11 +21,22 @@ Good for emailing speakers, CFP applicants, etc.
 
 ## Email Octopus
 
-Ideally for email marketing only. Think: Cold email outreach, promotions, etc. There are laws around email marketing specifically, please read up on them:
+Ideally for email marketing only. Think: Cold email outreach, announcements, promotions, etc. There are laws around email marketing specifically, please read up on them:
 
 
 - [CAN-SPAM Best Practices for Email Marketing](https://help.myemma.com/s/article/How-Can-Spam-affects-your-email-marketing)
 - [CAN-SPAM Act and how it affects your campaigns](https://knowledgebase.constantcontact.com/email-digital-marketing/articles/KnowledgeBase/5825-CAN-SPAM-Act-and-how-it-affects-your-campaigns?lang=en_US)
+
+
+### Segments
+
+Dynamic lists based on specific filters and properties. Some of the ones we currently have are: 
+
+- Sent an email in the last 7 days
+- Sent an email in the last 30 days
+- In-person attendees
+
+*Previous providers were Sendy and Mailchimp; no longer used.*
 
 ### Contacts
 
