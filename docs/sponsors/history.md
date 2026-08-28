@@ -6,3 +6,6 @@ nav_order: 3
 ---
 
 ## Previous Sponsors Chairs
+
+- Catherine Holmes
+- Nicole Dominguez
