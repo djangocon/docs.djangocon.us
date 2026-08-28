@@ -6,3 +6,6 @@ nav_order: 3
 ---
 
 ## Previous Website Chairs
+
+- Salim
+- Nicole Dominguez
