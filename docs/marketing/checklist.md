@@ -33,14 +33,22 @@ nav_order: 2
 
 ## Mailing List Email
 
-- [ ] Update template to use current year's branding
 - [ ] CFP and Opportunity Grants Open
-- [ ] Registration Open
+- [ ] Registration Open & Early Bird Sales
+- [ ] Early Bird Closing
+
+
+### Email Octopus 
+
+- [ ] Copy over email addresses from ti.to to Email Octopus with appropriate tags
+- [ ] Update [Email Octopus template](https://dashboard.emailoctopus.com/brand/templates?filters=eyJsYXN0S2V5IjpudWxsLCJwYWdlIjoxLCJwYWdpbmF0aW9uRGlyZWN0aW9uIjoiZm9yd2FyZCIsInNvcnRCeSI6Imxhc3QtdXBkYXRlZC1hdCIsIm9yZGVyIjoiZGVzYyIsInNlYXJjaEhhc2giOm51bGx9) to use current year's branding
+- [ ] Update [Brand information](https://dashboard.emailoctopus.com/brand/information) with current years' URL 
+- [ ] Update [Brand Style](https://dashboard.emailoctopus.com/brand/style)
 
 ## Attendee Emails
 
-- [ ] 1 month prior to conference
-- [ ] 1 week prior to conference
+- [ ] Announcing Keynotes: 1 month prior to conference
+- [ ] Welcome Email: 1 week prior to conference
 
 ## Social Media
 
@@ -57,4 +65,3 @@ Update all social media with new branding and dates each year
 ## Other
 
 - [ ] Post about each blog post on social media as it happens
-- [ ] Use
