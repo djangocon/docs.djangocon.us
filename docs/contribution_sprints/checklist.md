@@ -85,8 +85,8 @@ This checklist is written for the 2026 conference which is being held at the end
 ### During conference
 
 - [ ] Verify strong Wi-Fi in the venue (work with the venue team on this)
-- [ ] Pin message with project spreadsheet and information about sprints
+- [ ] Pin message with project spreadsheet and information about sprints in Slack
 - [ ] Support people creating project signs for their tables (writing materials, etc)
 - [ ] Check the temperature of the sprints rooms
-- [ ] Make sure sprinters know when & where lunch is so food isn't wasted
+- [ ] Make sure sprinters know when & where lunch is so food (if provided) isn't wasted
 - [ ] Project introductions
