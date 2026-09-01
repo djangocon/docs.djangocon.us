@@ -42,7 +42,29 @@ All of these are optional.
 - Cost: usually free, or the cost of an extra meeting room for a few hours
 - Book an extra room at the venue on the second or third evening of the conference from when the last talk ends to 9:00 or 10:00 pm
 - Add to conference schedule and publicize
-- People bring their own board games; this is a self-managing event for the most part.
+
+### Preparation
+
+- Bring 3 to 4 games that can be taught in about 10 minutes, and requires less than an hour to play. It's helpful to have 1 or 2 2-player games that can be pulled out when necessary. Having one or two standard decks of playing cards is frequently valuable.
+- Have a couple games in mind for new people or those without any preferences.
+  
+### At Game Night
+
+- Identify any staff that may need to be notified when you're done with the room.
+- Try to minimize the disruption to the room. Try to keep the activity clustered in one area. Only move tables when necessary.
+- Keep watch for people coming in. If individuals or small groups come in, try to get them seated at a game just getting started.
+- Be aware of what games are in progress and when they are likely to end, with an eye toward getting people started in another game if they're interested.
+- Make announcements when games are getting ready to start with room at that table, looking for people to join.
+- Keep an unofficial count of the number of distinct individuals participating.
+- There are some games that aren't appropriate - if you see one getting started, ask that it be put away. 
+  - Note: This doesn't just apply to improper themes or topics. Games with projectiles, thrown objects, or other physical activities involved such as running or chasing other people are all inappropriate for DjangoCon.
+
+### Closing
+
+- Make a general announcement at 30 minutes and 15 minutes before the closing time to remind people that the room will be closing on schedule.
+- Start encouraging people to leave at 5 minutes before closing time if they're not actively finishing up a game.
+- Scan the area for dropped game pieces or other forgotten items.
+- If necessary, notify staff when leaving.
 
 ## Django Girls Workshop
 
