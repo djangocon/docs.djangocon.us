@@ -36,7 +36,7 @@ The following steps need to be completed for each type of participant:
 
 Office hours are where new contributors can get their development environment set up and ask questions before the sprints.
 
-### Steps
+### Steps 
 
 1. Pick a date and time(s). Aim for one to two weeks before the conference sprints.
 2. Create a `.ics` calendar file for each session. See [.ics file guidance](#ics-file-guidance) below.
