@@ -55,4 +55,4 @@ The simplest approach is to create the event in Google Calendar and export it:
 2. Open the event, click the three-dot menu, and select **Publish event**.
 3. Copy the `.ics` link, or download the file directly to attach to the email.
 
-Alternatively, use an online generator such as [icalendar.org](https://icalendar.org/ical-generator.html) to build the file manually. Create one `.ics` file per session.
+Alternatively, there are an online generators or the the [`icalendar`](https://icalendar.readthedocs.io/en/stable/) package to build the file manually.
